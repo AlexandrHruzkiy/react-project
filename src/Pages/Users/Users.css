@@ -1,0 +1,30 @@
+.btn_back{
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    padding: 3px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+.btn_back:hover {
+    background-color: rgb(73, 207, 104);
+    color: white;
+}
+.btn_del{
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    padding: 3px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+.btn_del:hover {
+    background-color: rgb(219, 25, 25);
+    color: white;
+}
+li{
+    margin-top: 15px;
+}
